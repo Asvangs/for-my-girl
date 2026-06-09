@@ -1,0 +1,8 @@
+{
+  "name": "To My Heart",
+  "description": "A deeply touching, romantic space crafted to say sorry, featuring an interactive apology letter, falling petals, memories, and an empathetic boyfriend chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
